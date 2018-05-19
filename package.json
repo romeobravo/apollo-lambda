@@ -1,0 +1,16 @@
+{
+  "name": "@romeobravo/apollo-lambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ruben Buitelaar <rubenbuitelaar@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-lambda": "^1.3.0",
+    "graphql": "^0.11.7",
+    "graphql-tools": "^2.13.0"
+  }
+}
